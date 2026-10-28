@@ -1,0 +1,6 @@
+Name: Prateek Rai
+Age: 19
+Course: B.Tech Cse
+Name: rahul
+Age: 28
+Course: bca
