@@ -32,6 +32,8 @@ I'm building my programming fundamentals through hands-on practice and small pro
 ### 1. Weather App
 
 A Python application that retrieves and displays weather information.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bf511c2-3bae-4d95-adaa-aeb602b2ecc3" />
+
 
 ### 2. Encryption Program
 
