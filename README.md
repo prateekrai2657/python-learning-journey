@@ -38,14 +38,20 @@ A Python application that retrieves and displays weather information.
 ### 2. Encryption Program
 
 A Python program that demonstrates a basic character-substitution encryption technique.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af4b5b0-f176-4fa3-8beb-e442efbf8159" />
+
 
 ### 3. Hangman Game
 
 A word-guessing game built using Python.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79c28a4b-bff2-4e4a-844f-c97c1c110c85" />
+
 
 ### 4. Slot Machine
 
 A small Python game created to practise programming logic.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87eb8af3-cdc0-4dfa-b635-4265a59c2845" />
+
 
 ## 🛠️ Tools Used
 
